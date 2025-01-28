@@ -16,7 +16,7 @@ IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia servic
 2. NameSpoofing Attack
 [![Watch the video](https://img.youtube.com/vi/jpsnLKp0S5Q/maxresdefault.jpg)](https://youtu.be/jpsnLKp0S5Q)
 
-3. VilMS-ANY Attack
+3. ViIMS-ANY Attack
 [![Watch the video](https://img.youtube.com/vi/oYYxHHrFMqE/maxresdefault.jpg)](https://youtu.be/oYYxHHrFMqE)
 
 # 3. News
