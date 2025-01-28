@@ -6,3 +6,18 @@ IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia servic
 
 ![image](https://github.com/user-attachments/assets/84c480ba-841b-4721-a1a8-a3c8a311e4d8)
 
+# 2. Attack Demo
+
+# 4. Citation
+
+@inproceedings{shi2024ims,
+title={IMS is Not That Secure on Your 5G/4G Phones},
+author={Shi, Jingwen and Wang, Sihan and Chen, Min-Yue and Tu, Guan-Hua and Xie, Tian and Chen, Man-Hsin and Hu, Yiwen and Li, Chi-Yu and Peng, Chunyi},
+booktitle={Proceedings of the 30th Annual International Conference on Mobile Computing and Networking},
+pages={513--527},
+year={2024}
+}		
+
+# 5. Acknowledgement
+
+We would like to thank Jacob Woodworth for assisting with preparing the Google bug bounty report and building this website. Our gratitude also goes to Shaan Shekhar for collecting IMS IP data from Purdue and Jia-Ming Dong for validating the DoS attack over Wi-Fi from Taiwan. Your contributions were invaluable to this work.
