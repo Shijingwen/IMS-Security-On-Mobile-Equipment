@@ -9,7 +9,7 @@ IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia servic
 
 # 2. Attack Demo
 
-1. DOS-ALL Attack
+1. DoS-ALL Attack
 
 [![Watch the video](https://img.youtube.com/vi/gHYOnps2qCI/maxresdefault.jpg)](https://youtu.be/gHYOnps2qCI)
 
