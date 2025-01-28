@@ -40,4 +40,5 @@ year={2024}
 
 # 5. Acknowledgement
 
-We would like to thank Jacob Woodworth for assisting with preparing the Google bug bounty report and building this website. Our gratitude also goes to Shaan Shekhar for collecting IMS IP data from Purdue and Chia-Ming Tung for validating the DoS attack over Wi-Fi from Taiwan. Your contributions were invaluable to this work.
+We would like to thank `Jacob Woodworth` for assisting with preparing the Google bug bounty report and building this website. Our gratitude also goes to `Shaan Shekhar` for collecting IMS IP data from Purdue and `Chia-Ming Tung` for validating the DoS attack over Wi-Fi from Taiwan. Your contributions were invaluable to this work.
+
