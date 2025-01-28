@@ -22,7 +22,7 @@ IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia servic
 
 # 3. News
 
-🎉 Our vulnerability report to Google Bug Bounty Program has received a High-Severity and High-Quality assessment !
+🎉 Our vulnerability report to Google Bug Bounty Program has received the High-Quality assessment !
 
 🎉 Our work has been invited to the ACM GetMobile Research Highlights!
 
