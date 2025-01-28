@@ -22,10 +22,12 @@ IMS (IP Multimedia Subsystem) is vital for delivering IP-based multimedia servic
 # 3. News
 
 🎉 Our vulnerability report to Google Bug Bounty Program has received a High-Severity and High-Quality assessment !
+
 🎉 Our work has been invited to the ACM GetMobile Research Highlights!
 
 # 4. Citation
 
+```bibtex
 @inproceedings{shi2024ims,
 title={IMS is Not That Secure on Your 5G/4G Phones},
 author={Shi, Jingwen and Wang, Sihan and Chen, Min-Yue and Tu, Guan-Hua and Xie, Tian and Chen, Man-Hsin and Hu, Yiwen and Li, Chi-Yu and Peng, Chunyi},
@@ -36,4 +38,4 @@ year={2024}
 
 # 5. Acknowledgement
 
-We would like to thank Jacob Woodworth for assisting with preparing the Google bug bounty report and building this website. Our gratitude also goes to Shaan Shekhar for collecting IMS IP data from Purdue and Jia-Ming Dong for validating the DoS attack over Wi-Fi from Taiwan. Your contributions were invaluable to this work.
+We would like to thank Jacob Woodworth for assisting with preparing the Google bug bounty report and building this website. Our gratitude also goes to Shaan Shekhar for collecting IMS IP data from Purdue and Chia-Ming Tung for validating the DoS attack over Wi-Fi from Taiwan. Your contributions were invaluable to this work.
